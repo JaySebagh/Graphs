@@ -28,3 +28,15 @@ class Test(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# 1: 3
+# 2: 3
+# 3: 6
+# 4: 5, 8
+# 5: 6, 7
+# 6: None
+# 7: None
+# 8: 9
+# 9: None
+# 10: 1
+# 11: 8
